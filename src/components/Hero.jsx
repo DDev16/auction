@@ -1,6 +1,6 @@
 import { toast } from 'react-toastify'
 import { BsArrowRightShort } from 'react-icons/bs'
-import picture0 from './images/picture0.png'
+
 import { setGlobalState, useGlobalState } from '../store'
 import { loginWithCometChat, signUpWithCometChat } from '../services/chat'
 

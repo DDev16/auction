@@ -2,7 +2,7 @@ import axios from 'axios'
 import { useState } from 'react'
 import { toast } from 'react-toastify'
 import { FaTimes } from 'react-icons/fa'
-import picture6 from '../assets/images/picture6.png'
+
 import { setGlobalState, useGlobalState } from '../store'
 import { createNftItem } from '../services/blockchain'
 
